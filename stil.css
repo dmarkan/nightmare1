@@ -1,0 +1,251 @@
+body {
+	background:black;
+}
+
+#desno {
+	margin-left:1030px;
+	margin-top:-430px;
+}
+
+#levo {
+	margin-left:530px;
+	margin-top:-430px;
+}
+
+#gore {
+	margin-left:700px;
+	margin-top:40px;
+}
+
+#dole {
+	margin-left:700px;
+	margin-top:-80px;
+}
+
+#tekst_igraj {
+	color:white;
+	font-size:80px;
+	margin-top:-400px;
+	margin-left:20px;
+	text-decoration:none;
+}
+
+a {
+	text-decoration:none;
+}
+
+h1 {
+	font-size:200px;
+	color:red;
+	margin-top:-450px;
+}
+
+#krv {
+	margin-left:700px;
+	margin-top:-350px;
+	opacity:0;
+}
+
+#krv:hover {
+	opacity:1;
+}
+
+#prozor {
+	margin-left:400px;
+	margin-top:-350px;
+	opacity:0;
+}
+
+#prozor:hover {
+	opacity:1;
+}
+
+#krevet {
+	margin-left:650px;
+	margin-top:-430px;
+	opacity:0;
+}
+
+#krevet:hover {
+	opacity:1;
+}
+
+#fioka {
+	margin-left:900px;
+	margin-top:-130px;
+	opacity:0;
+}
+
+#fioka:hover {
+	opacity:1;
+}
+
+#djubre {
+	color:white;
+	margin-left:1120px;
+	margin-top:-10px;
+	opacity:0;
+}
+
+#djubre:hover {
+	opacity:1;
+}
+
+#pismo {
+	color:white;
+	margin-left:700px;
+	margin-top:-450px;
+	opacity:0;
+	}
+	
+#pismo:hover {
+	opacity:1;
+}
+
+#kljuc {
+	margin-left:700px;
+	margin-top:-450px;
+	opacity:0;
+}
+
+#kljuc:hover {
+	opacity:1;
+}
+
+#tekst_pismo {
+	color:black;
+	margin-left:350px;
+	margin-top:-670px;
+	font-family:Cursive;
+	font-size:30px;
+	}
+	
+#tekst_kljuc {
+	color:white;
+	margin-left:250px;
+	margin-top:-250px;
+	font-size:30px;
+	}
+	
+#kutija {
+	margin-left:1050px;
+	margin-top:-400px;
+	opacity:0;
+}
+
+#kutija:hover {
+	opacity:1;
+}
+
+#konj {
+	margin-left:1150px;
+	margin-top:-500px;
+	opacity:0;
+}
+
+#konj:hover {
+	opacity:1;
+}
+
+#oko {
+	margin-left:405px;
+	margin-top:-505px;
+}
+
+.invertar {
+	background:black;
+	margin-top:280px;
+	border-collapse:collapse;
+}
+
+#kljuc_inv {
+	margin-left:60px;
+	margin-top:494px;
+}
+
+#kljuc_inv2 {
+	margin-left:60px;
+	margin-top:-50px;
+	opacity:0;
+}
+
+#kljuc_inv2:hover {
+	opacity:1;
+}
+
+#kljuc_inv3 {
+	margin-left:60px;
+	margin-top:-98px;
+}
+
+#kljuc_inv4 {
+	margin-left:60px;
+	margin-top:298px;
+}
+
+#kljuc_inv5 {
+	margin-left:60px;
+	margin-top:110px;
+}
+
+#kljuc_inv6 {
+	margin-left:60px;
+	margin-top:-98px;
+}
+
+#kljuc_inv7 {
+	margin-left:60px;
+	margin-top:310px;
+}
+
+#kljuc_inv8 {
+	margin-left:60px;
+	margin-top:-98px;
+}
+
+#kljuc_inv9 {
+	margin-left:60px;
+	margin-top:248px;
+}
+	
+ul {
+	margin:auto;
+	list-style-type:none;
+	background:black;
+	overflow:hidden;
+}
+
+li {
+	border:4px inset white;
+	display:inline-block;
+	background:black;
+	color:black;
+	text-decoration:none;
+	height:-20px;
+	padding:50px;
+	margin-left:-3px;
+}
+
+.invertar2 {
+	background:black;
+	margin-top:374px;
+	border-collapse:collapse;
+}
+
+.invertar3 {
+	background:black;
+	margin-top:24px;
+	border-collapse:collapse;
+}
+
+.invertar4 {
+	background:black;
+	margin-top:24px;
+	border-collapse:collapse;
+}
+
+.invertar5 {
+	background:black;
+	margin-top:24px;
+	border-collapse:collapse;
+}
